@@ -5,15 +5,3 @@ img{
 	height: 200px;
 	margin:10px;
 }
-.col-sm-1{
-	display:flex;
-}
-.col-sm-2{
-	display:flex;
-}
-.col-sm-4{
-	display:flex;
-}
-.col-sm-12{
-	display:flex;
-}
